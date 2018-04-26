@@ -664,28 +664,33 @@
     ]
   },
   "packageFolders": {
-    "/home/snezhnyy/.nuget/packages/": {},
-    "/home/snezhnyy/Documents/programs/dotnet-sdk-2.1.105-linux-x64/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Nika\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/snezhnyy/Documents/sharp/TeleBotTest/TeleBotTest.csproj",
+      "projectUniqueName": "C:\\Users\\Nika\\source\\Repo4\\TeleBotTest\\TeleBotTest.csproj",
       "projectName": "TeleBotTest",
-      "projectPath": "/home/snezhnyy/Documents/sharp/TeleBotTest/TeleBotTest.csproj",
-      "packagesPath": "/home/snezhnyy/.nuget/packages/",
-      "outputPath": "/home/snezhnyy/Documents/sharp/TeleBotTest/obj/",
+      "projectPath": "C:\\Users\\Nika\\source\\Repo4\\TeleBotTest\\TeleBotTest.csproj",
+      "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nika\\source\\Repo4\\TeleBotTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/home/snezhnyy/Documents/programs/dotnet-sdk-2.1.105-linux-x64/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/snezhnyy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Nika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
